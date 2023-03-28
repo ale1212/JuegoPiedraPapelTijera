@@ -1,0 +1,15 @@
+C:\Users\ale\source\repos\JuegoPiedraPapelTijera\JuegoPiedraPapelTijera\bin\Debug\net7.0\JuegoPiedraPapelTijera.exe
+C:\Users\ale\source\repos\JuegoPiedraPapelTijera\JuegoPiedraPapelTijera\bin\Debug\net7.0\JuegoPiedraPapelTijera.deps.json
+C:\Users\ale\source\repos\JuegoPiedraPapelTijera\JuegoPiedraPapelTijera\bin\Debug\net7.0\JuegoPiedraPapelTijera.runtimeconfig.json
+C:\Users\ale\source\repos\JuegoPiedraPapelTijera\JuegoPiedraPapelTijera\bin\Debug\net7.0\JuegoPiedraPapelTijera.dll
+C:\Users\ale\source\repos\JuegoPiedraPapelTijera\JuegoPiedraPapelTijera\bin\Debug\net7.0\JuegoPiedraPapelTijera.pdb
+C:\Users\ale\source\repos\JuegoPiedraPapelTijera\JuegoPiedraPapelTijera\obj\Debug\net7.0\JuegoPiedraPapelTijera.csproj.AssemblyReference.cache
+C:\Users\ale\source\repos\JuegoPiedraPapelTijera\JuegoPiedraPapelTijera\obj\Debug\net7.0\JuegoPiedraPapelTijera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ale\source\repos\JuegoPiedraPapelTijera\JuegoPiedraPapelTijera\obj\Debug\net7.0\JuegoPiedraPapelTijera.AssemblyInfoInputs.cache
+C:\Users\ale\source\repos\JuegoPiedraPapelTijera\JuegoPiedraPapelTijera\obj\Debug\net7.0\JuegoPiedraPapelTijera.AssemblyInfo.cs
+C:\Users\ale\source\repos\JuegoPiedraPapelTijera\JuegoPiedraPapelTijera\obj\Debug\net7.0\JuegoPiedraPapelTijera.csproj.CoreCompileInputs.cache
+C:\Users\ale\source\repos\JuegoPiedraPapelTijera\JuegoPiedraPapelTijera\obj\Debug\net7.0\JuegoPiedraPapelTijera.dll
+C:\Users\ale\source\repos\JuegoPiedraPapelTijera\JuegoPiedraPapelTijera\obj\Debug\net7.0\refint\JuegoPiedraPapelTijera.dll
+C:\Users\ale\source\repos\JuegoPiedraPapelTijera\JuegoPiedraPapelTijera\obj\Debug\net7.0\JuegoPiedraPapelTijera.pdb
+C:\Users\ale\source\repos\JuegoPiedraPapelTijera\JuegoPiedraPapelTijera\obj\Debug\net7.0\JuegoPiedraPapelTijera.genruntimeconfig.cache
+C:\Users\ale\source\repos\JuegoPiedraPapelTijera\JuegoPiedraPapelTijera\obj\Debug\net7.0\ref\JuegoPiedraPapelTijera.dll

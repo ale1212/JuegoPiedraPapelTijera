@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuegoPiedraPapelTijera", "JuegoPiedraPapelTijera\JuegoPiedraPapelTijera.csproj", "{970556EC-6AD1-40CF-AB68-018A1D46C27E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJuego", "TestJuego\TestJuego.csproj", "{73627B8C-FB3C-48CF-B61B-96938028B055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{970556EC-6AD1-40CF-AB68-018A1D46C27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970556EC-6AD1-40CF-AB68-018A1D46C27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970556EC-6AD1-40CF-AB68-018A1D46C27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970556EC-6AD1-40CF-AB68-018A1D46C27E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73627B8C-FB3C-48CF-B61B-96938028B055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73627B8C-FB3C-48CF-B61B-96938028B055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73627B8C-FB3C-48CF-B61B-96938028B055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73627B8C-FB3C-48CF-B61B-96938028B055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD973C3A-E7F8-4B47-81F0-A8CCEED1AA2F}
+	EndGlobalSection
+EndGlobal
