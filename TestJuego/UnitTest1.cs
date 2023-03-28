@@ -10,21 +10,24 @@ namespace TestJuego
         public void TestPiedraGano()
         {
             var piedra = new Piedra();
-            var result = piedra.Jugar("tijera");
+            piedra.Tipo = "tijera";
+            var result = piedra.Jugar(piedra);
             Assert.Equal("gano", result);
         }
         [Fact]
         public void TestPiedraEmpata()
         {
             var piedra = new Piedra();
-            var result = piedra.Jugar("piedra");
+            piedra.Tipo = "piedra";
+            var result = piedra.Jugar(piedra);
             Assert.Equal("empato", result);
         }
         [Fact]
         public void TestPiedraPierde()
         {
             var piedra = new Piedra();
-            var result = piedra.Jugar("papel");
+            piedra.Tipo = "papel";
+            var result = piedra.Jugar(piedra);
             Assert.Equal("perdio", result);
         }
 
@@ -35,21 +38,24 @@ namespace TestJuego
         public void TestPapelGano()
         {
             var papel = new Papel();
-            var result =papel.Jugar("piedra");
+            papel.Tipo = "piedra";
+            var result =papel.Jugar(papel);
             Assert.Equal("gano", result);
         }
         [Fact]
         public void TestPapelEmpata()
         {
             var papel = new Papel();
-            var result =papel.Jugar("papel");
+            papel.Tipo = "papel";
+            var result =papel.Jugar(papel);
             Assert.Equal("empato", result);
         }
         [Fact]
         public void TestPapelPierde()
         {
             var papel = new Papel();
-            var result = papel.Jugar("tijera");
+            papel.Tipo = "tijera";
+            var result = papel.Jugar(papel);
             Assert.Equal("perdio", result);
         }
 
@@ -60,21 +66,24 @@ namespace TestJuego
         public void TestTijeraGano()
         {
             var tijera = new Tijera();
-            var result = tijera.Jugar("papel");
+            tijera.Tipo = "papel";
+            var result = tijera.Jugar(tijera);
             Assert.Equal("gano", result);
         }
         [Fact]
         public void TestTijeraEmpata()
         {
             var tijera = new Tijera();
-            var result =tijera.Jugar("tijera");
+            tijera.Tipo = "tijera";
+            var result =tijera.Jugar(tijera);
             Assert.Equal("empato", result);
         }
         [Fact]
         public void TestTijeraPierde()
         {
             var tijera = new Tijera();
-            var result = tijera.Jugar("piedra");
+            tijera.Tipo = "piedra";
+            var result = tijera.Jugar(tijera);
             Assert.Equal("perdio", result);
         }
 

@@ -10,14 +10,14 @@ namespace JuegoPiedraPapelTijera
     {
         public string Tipo { get; set; } = "";
 
-        public string Jugar(string jugar)
+        public string Jugar(Papel jugar)
         {
             string? mensaje;
-            if ("piedra" == jugar)
+            if ("piedra" == jugar.Tipo)
             {
                 mensaje = "gano";
             }
-            else if ("papel" == jugar)
+            else if ("papel" == jugar.Tipo)
             {
                 mensaje = "empato";
             }
